@@ -5,7 +5,7 @@ body{
 
 .container{
     text-align: center;
-    margin-top: 300px;
+    margin-top: 100px;
 } 
 
 .btn{
@@ -68,3 +68,5 @@ body{
 .btn3:hover::before, .btn4:hover::before{
     height: 0%;
 }
+
+
